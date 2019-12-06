@@ -7,7 +7,7 @@ A Flask based website providing various Shark Tank series details with various f
 
 1)Install required modules using <br>
 --> pip install -r requirements.txt <br>
-2)Open a Terminal and run the mongod Command <br>
+2)Open a Terminal and run the 'mongod' Command <br>
 3)Run the PrepareData.py file to prepare data <br>
 --> python3 PrepareData.py <br>
 4)Then run the Main.py flask server <br>
