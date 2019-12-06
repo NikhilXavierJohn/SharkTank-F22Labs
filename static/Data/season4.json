@@ -1,0 +1,1708 @@
+{
+    "Episode 1": [
+        {
+            "product": "Ticket-less coat check-in",
+            "location": "New York, NY",
+            "social": [
+                "https://www.facebook.com/CoatChex",
+                "https://twitter.com/CoatChex",
+                "http://www.pinterest.com/coatchex/",
+                "https://www.youtube.com/user/CoatChex"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Coat Chex",
+                "link": "http://coatchex.com/"
+            }
+        },
+        {
+            "product": "New massage therapy using your feet too give the perfect back rub.",
+            "location": "Denver, CO",
+            "social": [
+                "https://twitter.com/BeerBuckleTour"
+            ],
+            "status": "Funded",
+            "investors": "Barbara Corcoran",
+            "kitna": "50K for 51%",
+            "company": {
+                "title": "Bev Buckle",
+                "link": "http://www.thebeerbuckle.com/"
+            }
+        },
+        {
+            "product": "Tablet for medical wait environment",
+            "location": "Phoenix, AZ",
+            "social": [
+                "https://www.facebook.com/pages/BodyWalking-Institute/120952664644241",
+                "https://twitter.com/bodywalking",
+                "https://www.youtube.com/channel/UC--9SMss99aX1CpZc-0EGeA"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Body Walking",
+                "link": "http://www.bodywalking.com/"
+            }
+        },
+        {
+            "product": "Traps for bed bugs",
+            "location": "Boston, MA",
+            "social": [
+                "https://twitter.com/BuggyBeds",
+                "https://www.youtube.com/user/BuggyBeds"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban, Kevin O’Leary, Daymond John, and Robert Herjavic",
+            "kitna": "250k for 25% ",
+            "company": {
+                "title": "Buggy Beds",
+                "link": "http://www.buggybeds.com/"
+            }
+        }
+    ],
+    "Episode 2": [
+        {
+            "product": "Indoor surf board for fitness",
+            "location": "Manchester, NH",
+            "social": [
+                "https://www.facebook.com/SurfSET",
+                "https://twitter.com/SurfSETFitness",
+                "http://www.pinterest.com/ctritchie/surfset/",
+                "http://vimeo.com/surfset"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "300K for 30%",
+            "company": {
+                "title": "SurfSet Fitness",
+                "link": "http://www.surfsetfitness.com/"
+            }
+        },
+        {
+            "product": "Learn how to dress for success with this six-disc DVD series",
+            "location": "Atlanta, GA",
+            "social": [
+                "https://www.facebook.com/IAmAlphaM?ref=hl",
+                "https://twitter.com/IAmAlphaM",
+                "http://www.pinterest.com/source/iamalpham.com/",
+                "https://www.youtube.com/channel/UCLIUTn61HaGEN17nsYCF3dA"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Alpha M",
+                "link": "http://www.iamalpham.com/"
+            }
+        },
+        {
+            "product": "Personalized Ice Cream",
+            "location": "Omaha, NE",
+            "social": [
+                "https://www.facebook.com/eCreamery",
+                "https://twitter.com/ecreamery",
+                "http://www.pinterest.com/ecreamery/",
+                "http://instagram.com/ecreamery"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "eCreamery",
+                "link": "http://www.ecreamery.com/"
+            }
+        },
+        {
+            "product": "Privacy app that hides information on your cell phone.",
+            "location": "San Fransisco, CA",
+            "social": [
+                "https://www.facebook.com/cateapp",
+                "https://twitter.com/CATEAPP",
+                "https://www.youtube.com/user/CallAndTextEraser"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John and Kevin O’Leary",
+            "kitna": "75k for 30% ",
+            "company": {
+                "title": "CateApp",
+                "link": "http://www.cateapp.com/"
+            }
+        }
+    ],
+    "Episode 3": [
+        {
+            "product": "Healthy Cookie alternative that are vegan and gluten free.",
+            "location": "Waitsfield, VT",
+            "social": [
+                "https://www.facebook.com/lizlovely",
+                "https://twitter.com/lizlovely",
+                "http://www.pinterest.com/lizlovelyvt/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Liz Lovely Cookies",
+                "link": "http://lizlovely.com/"
+            }
+        },
+        {
+            "product": "Leather bands",
+            "location": "Hollywood, FL",
+            "social": [
+                "https://www.facebook.com/pages/ROCK-BANDS-by-Lee-Dahlberg/79122516718",
+                "https://twitter.com/LeeDahlberg"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban and Daymond John",
+            "kitna": "100K for 40%",
+            "company": {
+                "title": "Rock Bands",
+                "link": "http://www.leatherrockbands.com/"
+            }
+        },
+        {
+            "product": "Resuable diapers",
+            "location": "Lafayette, LA",
+            "social": [
+                "https://www.facebook.com/FuzziBunz",
+                "https://twitter.com/fuzzibunz",
+                "http://www.pinterest.com/fuzzibunz/",
+                "https://www.youtube.com/user/fuzzibunz"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "FuzziBunz",
+                "link": "http://fuzzibunz.com/"
+            }
+        },
+        {
+            "product": "Helps with your posture wearing this unique strap",
+            "location": "Portland, OR",
+            "social": [
+                "https://www.facebook.com/PostureNOW.posture.brace",
+                "https://twitter.com/PostureNOW"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "100k for 30% ",
+            "company": {
+                "title": "Posture Now",
+                "link": "http://www.posturenow.com/"
+            }
+        }
+    ],
+    "Episode 4": [
+        {
+            "product": "A Chicken Dip Recipe with all white meat chicken breasts",
+            "location": "Tampa, FL",
+            "social": [
+                "https://www.facebook.com/pages/Back9-Dips/343526515360",
+                "https://twitter.com/bubbachickendip"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner and Robert Herjavec",
+            "kitna": "150K for 25%",
+            "company": {
+                "title": "Back 9 Dips",
+                "link": "http://www.back9dips.com/"
+            }
+        },
+        {
+            "product": "Inventive clothes hamper",
+            "location": "Salt Lake City, UT",
+            "social": [
+                "https://www.facebook.com/lifterhamper",
+                "https://twitter.com/lifterhamper",
+                "https://www.youtube.com/user/LifterHamper"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Lift Hamper",
+                "link": "http://lifterhamper.com/"
+            }
+        },
+        {
+            "product": "Transform plastic bags into bowls",
+            "location": "Kansas City, MO",
+            "social": [
+                "https://www.facebook.com/BagBowl",
+                "https://twitter.com/BagBowl"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "40K for 33%",
+            "company": {
+                "title": "Bag Bowl",
+                "link": "http://www.buybagbowl.com/"
+            }
+        },
+        {
+            "product": "Wireless cell phone/ Key Finder",
+            "location": "Tulsa, OK",
+            "social": [
+                "https://www.facebook.com/Zomm1",
+                "https://twitter.com/thezomm",
+                "http://www.pinterest.com/zomm/",
+                "http://www.youtube.com/thezommvideo"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Zomm",
+                "link": "http://www.zomm.com/"
+            }
+        }
+    ],
+    "Episode 5": [
+        {
+            "product": "Pillowcase Dresses",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/pages/Cozy-Bug/564501653573694",
+                "https://twitter.com/cozybugusa",
+                "http://vimeo.com/69774229"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "50K for 30%",
+            "company": {
+                "title": "Cozy Bugs",
+                "link": "http://www.cozybugusa.com/"
+            }
+        },
+        {
+            "product": "An energy drink that you eat",
+            "location": "Seattle, WA",
+            "social": [
+                "https://www.facebook.com/WiredWyatts",
+                "https://twitter.com/wiredwaffles",
+                "https://www.youtube.com/channel/UCM2eQUWNZesxw_ddI8rs2nQ"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Wired Waffles",
+                "link": "http://www.wiredwaffles.com/"
+            }
+        },
+        {
+            "product": "Makeup Spatula",
+            "location": "Easley, SC",
+            "social": [
+                "https://www.facebook.com/TheSpatty",
+                "https://twitter.com/TheSpattyDaddy",
+                "https://www.youtube.com/channel/UC6XJGSLcBEtgGYKl3CcQAxQ"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "The Spatty",
+                "link": "http://www.thespatty.com/index.cfm"
+            }
+        },
+        {
+            "product": "Pills and Vitamins in Spray form",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/marzsprays",
+                "https://twitter.com/marzsprays",
+                "https://www.youtube.com/channel/UCVO5_uli-_ULJd9g3jr911Q"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "200K for 20% ",
+            "company": {
+                "title": "Marz Sprays",
+                "link": "https://www.marzsprays.com/"
+            }
+        }
+    ],
+    "Episode 6": [
+        {
+            "product": "Protein Drink with no caffeine or sugar",
+            "location": "Woodbridge, NJ",
+            "social": [
+                "https://www.facebook.com/PRONRGUSA",
+                "https://twitter.com/pronrgusa",
+                "http://www.pinterest.com/pronrgusa/",
+                "http://instagram.com/pronrgusa"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "250K for 30%",
+            "company": {
+                "title": "PRO-NRG",
+                "link": "http://www.pronrgusa.com/"
+            }
+        },
+        {
+            "product": "Food Truck Lobster Rolls",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/CousinsLobster",
+                "https://twitter.com/CMLobster",
+                "https://www.youtube.com/channel/UC5CgpVo2gN6KS0Val_TaZVw"
+            ],
+            "status": "Funded",
+            "investors": "Barbara Corcoran",
+            "kitna": "55K for 15%",
+            "company": {
+                "title": "Cousins Maine Lobster",
+                "link": "https://www.cousinsmainelobster.com/"
+            }
+        },
+        {
+            "product": "Organic Laundry Soap",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/EcoNuts",
+                "https://twitter.com/econuts",
+                "http://www.pinterest.com/econuts/",
+                "https://www.youtube.com/user/econutssoap?feature=guide"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "EcoNutsSoap",
+                "link": "http://econutssoap.com/"
+            }
+        },
+        {
+            "product": "Colorful drink insulator",
+            "location": "Willmington, NC",
+            "social": [
+                "https://www.facebook.com/pages/Freaker-USA/157976184269598",
+                "https://twitter.com/FreakerUSA",
+                "http://www.pinterest.com/freakerusa",
+                "https://www.youtube.com/user/FreakerUSA"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Freaker USA",
+                "link": "http://www.freakerusa.com/"
+            }
+        }
+    ],
+    "Episode 7": [
+        {
+            "product": "Electric self-balancing unicycle",
+            "location": "Camas, WA",
+            "social": [
+                "https://www.facebook.com/focusdesignsinc",
+                "https://twitter.com/focusdesigns",
+                "https://www.youtube.com/channel/UCueumjQR3uK_bQjmfxKnavw"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary and Robert Herjavec",
+            "kitna": "300K for 33%",
+            "company": {
+                "title": "Focus Designs",
+                "link": "http://focusdesigns.com/"
+            }
+        },
+        {
+            "product": "Treats for dogs",
+            "location": "Denver, CO",
+            "social": [
+                "https://www.facebook.com/TheBearandTheRat",
+                "https://twitter.com/cooltreats4dogs",
+                "http://www.pinterest.com/cooltreats4dogs/",
+                "https://www.youtube.com/user/Cooltreats4dogs"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Frozen “Cool Treats For Dogs”",
+                "link": "http://cooltreatsfordogs.com/"
+            }
+        },
+        {
+            "product": "Makes scrubbing dishes better",
+            "location": "Folcroft, PA",
+            "social": [
+                "https://www.facebook.com/GetScrubDaddy",
+                "https://twitter.com/ScrubDaddy",
+                "http://instagram.com/thescrubdaddy"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "200K for 20%",
+            "company": {
+                "title": "Scrub Daddy",
+                "link": "http://getscrubdaddy.com/"
+            }
+        },
+        {
+            "product": "Modern undergarment slips",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/TheShemie",
+                "https://twitter.com/theshemie",
+                "http://www.pinterest.com/shemieinc/",
+                "https://www.youtube.com/user/SheltonWildersShemie"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "The Shemie",
+                "link": "http://www.theshemie.com/"
+            }
+        }
+    ],
+    "Episode 8": [
+        {
+            "product": "Cone-shaped flytrap",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/NoFlyCone",
+                "https://twitter.com/noflycone",
+                "https://www.youtube.com/channel/UCVekDoMTjNIGiFMK7n6iz_Q"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "No Fly Cone",
+                "link": "http://noflycone.com/"
+            }
+        },
+        {
+            "product": "Baby diaper changing pad, a swing cover, shopping cart cover, car shade and a sun blocker all rolled into one.",
+            "location": "Walnut Creek, CA",
+            "social": [
+                "https://www.facebook.com/Cheerfulchild",
+                "https://twitter.com/ginellem",
+                "https://www.youtube.com/channel/UCwm8MmH3JJ5AmKVhduA7slw"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner and Barbara Corcoran",
+            "kitna": "65K for 33%",
+            "company": {
+                "title": "The Cool Wazoo",
+                "link": "http://www.thecoolwazoo.com/"
+            }
+        },
+        {
+            "product": "Storage Container transforms plates instantly into airtight storage containers.",
+            "location": "San Fransisco, CA",
+            "social": [
+                "https://www.facebook.com/PlateTopper",
+                "https://twitter.com/PlateTopper",
+                "https://www.youtube.com/user/PlateTopper"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "90K for 8%",
+            "company": {
+                "title": "Plate Topper",
+                "link": "https://www.platetopper.com/"
+            }
+        }
+    ],
+    "Episode 9": [
+        {
+            "product": "Real Estate Search Engine of the Future",
+            "location": "San Fransisco, CA",
+            "social": [
+                "https://twitter.com/MrTodsPies"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "ReVestor",
+                "link": "http://www.revestor.com/home"
+            }
+        },
+        {
+            "product": "Certified Organic Candy using nature’s sugar Xylitol as the sweetener",
+            "location": "Yelm, WA",
+            "social": [
+                "https://www.facebook.com/pages/Ice-Chips-Xylitol-Candy/231778180176936",
+                "https://twitter.com/IceChips_Candy",
+                "https://www.youtube.com/channel/UClH6FAKtxBtQIKO9bsDLaXw"
+            ],
+            "status": "Funded",
+            "investors": "Barbara Corcoran and Mark Cuban",
+            "kitna": "125K for 20%",
+            "company": {
+                "title": "Ice Chips Candy",
+                "link": "http://www.icechipscandy.com/"
+            }
+        },
+        {
+            "product": "PC Classes Online will teach the older generation about new technology",
+            "location": "Provincetown, MA",
+            "social": [
+                "https://www.youtube.com/channel/UCWjgzVRdoEaZxiF_kVbrtsA"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "PC Classes Online",
+                "link": "http://pcclassesonline.com/"
+            }
+        },
+        {
+            "product": "Transformer Suit’s That You Can Drive",
+            "location": "Burbank, GA",
+            "social": [],
+            "status": "Funded",
+            "investors": "Kevin O’Leary",
+            "kitna": "150k for 30% ",
+            "company": {
+                "title": "DriveSuits",
+                "link": "http://www.drivesuits.com/"
+            }
+        }
+    ],
+    "Episode 10": [
+        {
+            "product": "Specialty Energy Drink Designed by Soldiers for Soldiers in the Military.",
+            "location": "San Diego, CA",
+            "social": [
+                "https://www.facebook.com/RuckPack",
+                "https://twitter.com/nootsnutrition",
+                "http://www.pinterest.com/ruckpack/",
+                "https://www.youtube.com/user/ruckpack"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary and Robert Herjavec",
+            "kitna": "105K for 30%",
+            "company": {
+                "title": "Ruck Pack Combat Nutrition",
+                "link": "http://www.ruckpack.com/"
+            }
+        },
+        {
+            "product": "Wedding Dress Buy, Sell or Rent Online",
+            "location": "Brookyln, NY",
+            "social": [
+                "https://www.facebook.com/NearlyNewlywed",
+                "https://twitter.com/nearlynewlywed",
+                "http://www.pinterest.com/lau2824/nearly-newlywed/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Nearly Newlywed",
+                "link": "http://www.nearlynewlywed.com/"
+            }
+        },
+        {
+            "product": "See the sights while enjoying a glass of wine.",
+            "location": "Long Beach, CA",
+            "social": [
+                "https://www.facebook.com/corksawaycruises",
+                "https://twitter.com/CorksAway",
+                "https://www.youtube.com/watch?v=EUDeu0-7_I4"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Corks Away",
+                "link": "http://corksaway.com/"
+            }
+        },
+        {
+            "product": "Rent A Tie by mail order business with an unlimited number to choose from.",
+            "location": "New York, NY",
+            "social": [
+                "https://www.facebook.com/FreshNeck",
+                "https://twitter.com/freshneck",
+                "http://www.pinterest.com/freshneck/",
+                "https://www.youtube.com/channel/UC1IyE-x1X61eEqE5-a5IXdw"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Tie Try",
+                "link": "https://freshneck.com/?ref=tt"
+            }
+        }
+    ],
+    "Episode 11": [
+        {
+            "product": "Rent a live tree and save a tree from getting cut down.",
+            "location": "Redondo Beach, CA",
+            "social": [
+                "https://www.facebook.com/livingchristmas",
+                "https://twitter.com/livingchristmas"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "150K for 40%",
+            "company": {
+                "title": "Living Christmas Tree Rental",
+                "link": "https://www.livingchristmas.com/"
+            }
+        },
+        {
+            "product": "Ultimate place to have a Birthday Party for any age.",
+            "location": "Studio City, CA",
+            "social": [
+                "https://www.facebook.com/thecooplosangeles",
+                "https://twitter.com/thelaCOOP"
+            ],
+            "status": "Funded",
+            "investors": "Barbara Corcoran",
+            "kitna": "150K and 15%",
+            "company": {
+                "title": "The “Coop” Party Place",
+                "link": "http://www.thecoop-la.com/"
+            }
+        },
+        {
+            "product": "Claims her fudge is gluten-free but not glutton-free",
+            "location": "East Hampton, NY",
+            "social": [
+                "https://www.facebook.com/pages/Fat-Ass-Fudge/155944763607",
+                "https://twitter.com/fatassfudge",
+                "http://www.pinterest.com/fatassfudge/fat-ass-fudge-pictures/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Fat Ass Fudge",
+                "link": "http://www.fat-assfudge.com/"
+            }
+        },
+        {
+            "product": "Purse alternative that straps to your leg",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/PartiePoche?fref=ts",
+                "https://twitter.com/PartiePoche"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Partie Poche",
+                "link": "http://www.partiepoche.com/"
+            }
+        }
+    ],
+    "Episode 12": [
+        {
+            "product": "Gameday Masks",
+            "location": "Tyler, TX",
+            "social": [
+                "https://www.facebook.com/pages/The-Gameface-Company/188620667111?sk=timeline",
+                "https://twitter.com/thegamefaceco",
+                "http://www.pinterest.com/thegamefaceco/",
+                "https://www.youtube.com/user/TheGamefaceCompany"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban and Lori Greiner",
+            "kitna": "450K for 40%",
+            "company": {
+                "title": "The GameFace Company",
+                "link": "http://thegamefacecompany.com/"
+            }
+        },
+        {
+            "product": "Drink ‘n game",
+            "location": "San Luis Obispo, CA",
+            "social": [
+                "https://www.facebook.com/pages/Arkeg/71993347072",
+                "https://twitter.com/arkeg"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Arkeg",
+                "link": "http://www.drinkngame.com/"
+            }
+        },
+        {
+            "product": "Miniature tents to keep flies off the food",
+            "location": "Poway, CA",
+            "social": [
+                "https://www.facebook.com/picnicpal",
+                "https://twitter.com/mypicnicpal/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Dura-Tent",
+                "link": "http://www.duratent.com/"
+            }
+        },
+        {
+            "product": "Hair Products for Kid’s",
+            "location": "Denver, CO",
+            "social": [
+                "https://www.facebook.com/HotTotHaircare",
+                "https://twitter.com/HotTotHaircare",
+                "http://www.pinterest.com/hottothaircare/",
+                "http://instagram.com/HotTotHaircare"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "75k for 40% ",
+            "company": {
+                "title": "Hot Tot Children’s Hair Care",
+                "link": "http://hottot.com/"
+            }
+        }
+    ],
+    "Episode 13": [
+        {
+            "product": "Keeps your coffee hotter for an extended period",
+            "location": "Pennington, NJ",
+            "social": [
+                "https://www.facebook.com/coffeejoulies",
+                "https://twitter.com/coffeejoulies",
+                "https://www.youtube.com/channel/UCP63lfYOtgBvPn8iIXHd8ag"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary, Lori Greiner, Daymond John and Robert Herjavec",
+            "kitna": "150K for a royalty fee of $6 per Coffee Joulies sold retail, and $3 per wholesale unit sold.",
+            "company": {
+                "title": "Coffee Joulies",
+                "link": "http://www.joulies.com/#"
+            }
+        },
+        {
+            "product": "Pillow case-like design that zips up and keeps Teddy safe in the washer",
+            "location": "San Fransisco, CA",
+            "social": [
+                "https://www.facebook.com/teddyneedsabathbag",
+                "https://twitter.com/teddyneedsabath",
+                "http://www.pinterest.com/teddyneedsabath/",
+                "http://vimeo.com/teddyneedsabath"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "100K for 30%",
+            "company": {
+                "title": "Teddy Needs A Bath",
+                "link": "http://www.teddyneedsabath.com/"
+            }
+        },
+        {
+            "product": "Ice Cream Store",
+            "location": "Provo, UT",
+            "social": [
+                "https://www.facebook.com/subzeroicecream",
+                "https://twitter.com/SubZeroTweets",
+                "http://www.pinterest.com/subzeroicecream/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Sub Zero Ice Cream",
+                "link": "http://www.subzeroicecream.com/"
+            }
+        },
+        {
+            "product": "Vertical Wall Gardens you can easily rearrange using strong magnets on the flower pots.",
+            "location": "Oakland, CA",
+            "social": [
+                "https://www.facebook.com/myurbio",
+                "https://twitter.com/myurbio",
+                "http://www.pinterest.com/myurbio/",
+                "http://instagram.com/myurbio"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "300K for 15%",
+            "company": {
+                "title": "Urbio",
+                "link": "http://www.myurbio.com/"
+            }
+        }
+    ],
+    "Episode 14": [
+        {
+            "product": "All purpose apron/bib that covers your kids entire upper body",
+            "location": "Miami, FL",
+            "social": [
+                "https://www.facebook.com/Bibbitecbibs",
+                "https://twitter.com/bibbitec",
+                "http://www.pinterest.com/bibbitec/",
+                "https://www.youtube.com/user/bibbitec"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Bibbitec Bibs",
+                "link": "http://www.bibbitec.com/"
+            }
+        },
+        {
+            "product": "Increases the sound of your iPad",
+            "location": "St. Paul, MN",
+            "social": [
+                "https://www.facebook.com/TheSoundBender",
+                "https://twitter.com/soundbenderTM",
+                "http://www.pinterest.com/soundbender/soundbender/",
+                "https://www.youtube.com/user/SoundBenderUpdates"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "54K for 40%",
+            "company": {
+                "title": "SoundBender",
+                "link": "http://www.thesoundbender.com/"
+            }
+        },
+        {
+            "product": "Records stories in your voice that can be played over and over via MP3 Player",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/cuddletunes",
+                "https://twitter.com/cuddletunes",
+                "http://www.pinterest.com/search/?q=cuddletunes",
+                "https://www.youtube.com/playlist?list=FLZAH2cd5KNctBnnM5uVhrCw"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Cuddletunes",
+                "link": "http://www.cuddletunes.com/"
+            }
+        },
+        {
+            "product": "Lightest weight running shoe/sandal on the market",
+            "location": "Boulder, CO",
+            "social": [
+                "https://www.facebook.com/xeroshoes",
+                "https://twitter.com/xeroshoes",
+                "http://www.pinterest.com/xeroshoes/",
+                "https://www.youtube.com/user/xeroshoes"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Xero Shoes",
+                "link": "http://xeroshoes.com/index-nav-mwc.php"
+            }
+        }
+    ],
+    "Episode 15": [
+        {
+            "product": "4-in-1 Dry Cleaners bag that looks to eliminate single use plastics",
+            "location": "North Hollywood, CA",
+            "social": [
+                "https://www.facebook.com/thegreengarmento",
+                "https://twitter.com/greengarmento",
+                "http://www.pinterest.com/greengarmento/",
+                "https://www.youtube.com/user/TheGreenGarmento"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Green Garmento",
+                "link": "https://thegreengarmento.com/"
+            }
+        },
+        {
+            "product": "Chewing tobacco alternative using coffee grinds in pouches with an added burst of energy.",
+            "location": "San Fransisco, CA",
+            "social": [
+                "https://www.facebook.com/getGRINDS",
+                "https://twitter.com/getgrinds",
+                "https://www.youtube.com/user/GrindsLLC"
+            ],
+            "status": "Funded",
+            "investors": "Robert Herjavec and Daymond John",
+            "kitna": "75K for 15%",
+            "company": {
+                "title": "Grinds",
+                "link": "http://www.getgrinds.com/"
+            }
+        },
+        {
+            "product": "Handheld cooler that keeps cans and bottles ice cold",
+            "location": "Austin, TX",
+            "social": [
+                "https://twitter.com/MyColdSnap",
+                "https://www.youtube.com/user/MyColdSnap"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "My Cold Snap",
+                "link": "http://www.mycoldsnap.com/My_Cold_Snap/Home.html"
+            }
+        },
+        {
+            "product": "Perfect traveling pillow",
+            "location": "Florence, NJ",
+            "social": [
+                "https://www.facebook.com/hoodiepillow",
+                "https://twitter.com/hoodiepillow",
+                "http://www.pinterest.com/hoodiepillow",
+                "http://www.instagram.com/hoodiepillow"
+            ],
+            "status": "Funded",
+            "investors": "Robert Herjavec",
+            "kitna": "90k for 30% ",
+            "company": {
+                "title": "Hoodie Pillow",
+                "link": "http://www.hoodiepillow.com/"
+            }
+        }
+    ],
+    "Episode 16": [
+        {
+            "product": "New S’mores made in a new and creative way",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/GottaHaveSmore",
+                "https://twitter.com/GottaHaveSmore",
+                "http://www.pinterest.com/asugarhigh/gotta-have-s-more/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Gotta Have S’More",
+                "link": "https://gottahavesmore.com/smuffins"
+            }
+        },
+        {
+            "product": "New alternative to casual fast food dining where you create your own sushi rolls.",
+            "location": "Austin, TX",
+            "social": [
+                "https://www.facebook.com/HDYRsushi",
+                "https://twitter.com/How_Do_You_Roll",
+                "http://pinterest.com/howdoyouroll/",
+                "https://www.youtube.com/user/HDYRsushi"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary",
+            "kitna": "1M for 20%",
+            "company": {
+                "title": "How Do You Roll?",
+                "link": "http://www.howdoyouroll.com/"
+            }
+        },
+        {
+            "product": "Online therapy for women",
+            "location": "New York City, NY",
+            "social": [
+                "https://www.facebook.com/prettypaddedroom",
+                "https://twitter.com/prettypaddedrm",
+                "http://www.pinterest.com/prettypaddedrm/",
+                "https://www.youtube.com/channel/UCD4v_6CVOgsYHaMCJjg-1yQ"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Pretty Padded Room",
+                "link": "https://prettypaddedroom.com/"
+            }
+        },
+        {
+            "product": "Stopping Texting While Driving",
+            "location": "Londonderry, NJ",
+            "social": [
+                "https://www.facebook.com/smartwheelusa",
+                "https://twitter.com/inventioneers"
+            ],
+            "status": "Funded",
+            "investors": "Robert Herjavec and Mark Cuban",
+            "kitna": "100k for 30% ",
+            "company": {
+                "title": "The Smart Wheel",
+                "link": "http://smartwheelusa.com/index.html#Home.html"
+            }
+        }
+    ],
+    "Episode 17": [
+        {
+            "product": "Bedroom accessories",
+            "location": "Loganville, GA",
+            "social": [
+                "https://www.facebook.com/pages/Addisons-Wonderland/214471458572603",
+                "https://twitter.com/AddiWonderland",
+                "http://www.pinterest.com/addiwonderland/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Addison’s Wonderland",
+                "link": "https://www.addisonswonderland.com/"
+            }
+        },
+        {
+            "product": "100% in-focus photos for the Brand New Camouflage of the future",
+            "location": "Madison, MS",
+            "social": [
+                "https://www.facebook.com/MuddyWaterCamo",
+                "https://twitter.com/muddywatercamo",
+                "http://www.pinterest.com/muddywatercamo/",
+                "https://www.youtube.com/user/MuddyWaterCamo"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Muddy Water Camo",
+                "link": "http://www.muddywateroutdoors.com/"
+            }
+        },
+        {
+            "product": "High quality denim jeans made to show off your finer assets",
+            "location": "Austin, TX",
+            "social": [
+                "https://www.facebook.com/pages/The-Hip-Chick/97812303856",
+                "https://twitter.com/thehipchickcom",
+                "http://www.pinterest.com/hipchixsdenim/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Hip Chixs",
+                "link": "http://www.thehipchick.com/"
+            }
+        },
+        {
+            "product": "Sunglasses made out of sustainable wood making each pair unique",
+            "location": "Boise, ID",
+            "social": [
+                "https://www.facebook.com/ProofEyewear",
+                "https://twitter.com/iwantproof",
+                "http://www.pinterest.com/iwantproof/",
+                "http://instagram.com/proofeyewear/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Proof Eyewear",
+                "link": "http://iwantproof.com/"
+            }
+        }
+    ],
+    "Episode 18": [
+        {
+            "product": "Peanut butter and almond spread designed for athletes",
+            "location": "Pawtucket, Ri",
+            "social": [
+                "https://www.facebook.com/NutsNMore",
+                "https://twitter.com/nutsnmoreusa",
+                "http://www.pinterest.com/musclefoodsusa/nuts-n-more/"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban and Robert Herjavec",
+            "kitna": "250K for 30%",
+            "company": {
+                "title": "Nuts ‘N More",
+                "link": "http://www.nuts-n-more.com/"
+            }
+        },
+        {
+            "product": "Acupressure bands designed for nausea and motion sickness.",
+            "location": "Pacific Grove, CA",
+            "social": [
+                "https://www.facebook.com/psibands",
+                "https://twitter.com/psibands",
+                "http://www.pinterest.com/psibands/",
+                "https://www.youtube.com/channel/UCQbKw25Dh-J7H-v6aB2fbnQ"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "PsiBands",
+                "link": "http://www.psibands.com/"
+            }
+        },
+        {
+            "product": "Do it yourself tattoo remover",
+            "location": "Westminister, CO",
+            "social": [
+                "https://www.facebook.com/NeomaglightUSA",
+                "https://twitter.com/MAGICTATREMOVER"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Neo Innovations",
+                "link": "http://neomagneticlight.com/"
+            }
+        },
+        {
+            "product": "Turns stiletto high heel shoes into a wedge and then back to a heel using magnets.",
+            "location": "Magnolia, AR",
+            "social": [
+                "https://www.facebook.com/JeskaShoe",
+                "https://twitter.com/JesKaShoe"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "70k for 70% ",
+            "company": {
+                "title": "Jeska Shoe Company",
+                "link": "http://jeskashoecompany.com/"
+            }
+        }
+    ],
+    "Episode 19": [
+        {
+            "product": "Disco parties for kids in real life night Club’s",
+            "location": "Portland, OR",
+            "social": [
+                "https://www.facebook.com/babylovesdisco",
+                "https://www.youtube.com/user/babylovesdiscoTV"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Baby Loves Disco",
+                "link": "http://babylovesdisco.com/"
+            }
+        },
+        {
+            "product": "Rodeo workout videos",
+            "location": "Loveland, CO",
+            "social": [
+                "https://www.facebook.com/RyanCowboyEhmann",
+                "https://twitter.com/CowboyRyan_",
+                "https://www.youtube.com/channel/UCiaqeSeqKCz8PU8Bd_8Slww"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "125K for 25%",
+            "company": {
+                "title": "Lose 12 Inches with Any 12 Workouts",
+                "link": "http://lose-12-inches.myshopify.com/"
+            }
+        },
+        {
+            "product": "Cell phone case",
+            "location": "Pittsburg, PA",
+            "social": [
+                "https://www.facebook.com/cellhelmet",
+                "https://twitter.com/cellhelmet",
+                "http://www.pinterest.com/cellhelmet/",
+                "https://www.youtube.com/user/cellpigtv?sub_confirmation=1"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "CellHelmet",
+                "link": "http://www.cellhelmet.com/"
+            }
+        },
+        {
+            "product": "Transforms a bean bag into a full sized bed within minutes",
+            "location": "Gainesville, FL",
+            "social": [
+                "https://twitter.com/cordaroys",
+                "http://www.pinterest.com/beanbagbeds/"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "200K for 58% ",
+            "company": {
+                "title": "Cordaroy’s",
+                "link": "http://cordaroys.com/home.php"
+            }
+        }
+    ],
+    "Episode 20": [
+        {
+            "product": "Covers the gap between your car seat and the center console.",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/buydropstop",
+                "https://twitter.com/dropstop",
+                "http://www.pinterest.com/dropstop/",
+                "https://www.youtube.com/channel/UCtQFxgC2JPNPt091y93e8-A"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner",
+            "kitna": "300K for 20%",
+            "company": {
+                "title": "Drop Stop",
+                "link": "http://www.buydropstop.com/"
+            }
+        },
+        {
+            "product": "Selling Lion Fish",
+            "location": "Minneapolis, MN",
+            "social": [
+                "https://www.facebook.com/traditional.fisheries",
+                "https://twitter.com/TraditionFish"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Traditional Fisheries",
+                "link": "http://www.traditionalfisheries.com/"
+            }
+        },
+        {
+            "product": "All-natural sugar scrubs",
+            "location": "Pittsburg, PA",
+            "social": [
+                "https://www.facebook.com/simplesugars",
+                "https://twitter.com/simplesugars",
+                "https://instagram.com/simplesugars/"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "100K for 30%",
+            "company": {
+                "title": "Simple Sugar",
+                "link": "http://simplesugars.myshopify.com/"
+            }
+        },
+        {
+            "product": "Shrink wrap gift bag",
+            "location": "Attleboro, MA",
+            "social": [
+                "https://www.facebook.com/pages/CoolWraps/346999582088169",
+                "https://twitter.com/CoolWraps"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "250k for 100% ",
+            "company": {
+                "title": "Cool Wrap Gift Bags",
+                "link": "http://www.coolwraps.com/"
+            }
+        }
+    ],
+    "Episode 21": [
+        {
+            "product": "Light up your cooler and a whole lot more.",
+            "location": "Las Vegas, NV",
+            "social": [
+                "https://www.facebook.com/liddupcooler",
+                "https://twitter.com/LiddUpCooler",
+                "http://www.pinterest.com/liddup/",
+                "https://www.youtube.com/channel/UCLCI9xzZPW8Bw56-nx4c2MA"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary",
+            "kitna": "100K for 33%",
+            "company": {
+                "title": "Liddup",
+                "link": "http://www.liddup.com/"
+            }
+        },
+        {
+            "product": "Delivers freshly grown meat to your doorstep",
+            "location": "Bartonville, IL",
+            "social": [
+                "https://www.facebook.com/evmeats",
+                "https://twitter.com/EchoValleyMeats",
+                "http://www.pinterest.com/echovalleymeats/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Echo Valley Meats",
+                "link": "https://www.echovalleymeats.com/"
+            }
+        },
+        {
+            "product": "Unique looking costume.",
+            "location": "New Orleans, LA",
+            "social": [
+                "https://www.facebook.com/RootSuit",
+                "https://twitter.com/rootsuitnation",
+                "http://www.pinterest.com/rootsuits/",
+                "https://www.youtube.com/user/colingru"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "RootSuit",
+                "link": "http://www.rootsuit.com/"
+            }
+        },
+        {
+            "product": "Built-in filter system within the water bottle",
+            "location": "San Diego, CA",
+            "social": [
+                "https://www.facebook.com/GobieH2O",
+                "https://twitter.com/GOBIEH2O",
+                "http://www.pinterest.com/gobieh2o/",
+                "https://www.youtube.com/channel/UCSS2ZZ7gCwcRH127dJYEsdQ"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "300k for 40% ",
+            "company": {
+                "title": "GOBIE H20",
+                "link": "http://www.gobieh2o.com/"
+            }
+        }
+    ],
+    "Episode 22": [
+        {
+            "product": "English Scones",
+            "location": "Denver, CO",
+            "social": [
+                "https://www.facebook.com/JonesScones",
+                "https://twitter.com/jonesscones",
+                "http://www.pinterest.com/jonesscones/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Jones Scones",
+                "link": "http://www.jonesscones.com/"
+            }
+        },
+        {
+            "product": "Luggage delivery service",
+            "location": "New York, NY",
+            "social": [
+                "https://www.facebook.com/LugLess",
+                "https://twitter.com/luglesstravel/",
+                "http://www.pinterest.com/lugless/"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Lugless",
+                "link": "http://www.lugless.com/"
+            }
+        },
+        {
+            "product": "Designer Furniture",
+            "location": "Everett, WA",
+            "social": [
+                "https://www.facebook.com/GeekChicHQ",
+                "https://twitter.com/geekchiclabs"
+            ],
+            "status": "Funded",
+            "investors": "Robert Herjavec",
+            "kitna": "300K for 25%",
+            "company": {
+                "title": "Geek Chic",
+                "link": "http://www.geekchichq.com/"
+            }
+        },
+        {
+            "product": "Jewelry line",
+            "location": "Hillsborogh, NJ",
+            "social": [
+                "https://www.facebook.com/pages/stella-valle/113196925361707",
+                "https://twitter.com/stellavallenyc",
+                "http://www.pinterest.com/stellavalle/",
+                "http://instagram.com/stellavalle/"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner and Mark Cuban",
+            "kitna": "150k for 35% ",
+            "company": {
+                "title": "Stella Valle",
+                "link": "http://www.stellavalle.com/"
+            }
+        }
+    ],
+    "Episode 23": [
+        {
+            "product": "Fishing bobber made from a shotgun shell",
+            "location": "Oviedo, FL",
+            "social": [
+                "https://www.facebook.com/fishingammo",
+                "https://twitter.com/fishingammo",
+                "https://www.youtube.com/channel/UCQdj1UThAi8Ybw7oakZcL9g?feature=guide"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "80K for 33%",
+            "company": {
+                "title": "Fishing Ammo",
+                "link": "http://fishingammo.com/"
+            }
+        },
+        {
+            "product": "Cupcakes shipped in jars",
+            "location": "Cohasset, MA",
+            "social": [
+                "https://www.facebook.com/WickedGoodCupcakes",
+                "https://twitter.com/wkdgoodcupcakes",
+                "http://www.pinterest.com/avatheelephant/",
+                "http://instagram.com/wkdgoodcupcakes"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary",
+            "kitna": "75K for Perpetuity",
+            "company": {
+                "title": "Wicked Good Cup Cakes",
+                "link": "https://www.wickedgoodcupcakes.com/default.aspx#"
+            }
+        },
+        {
+            "product": "Device that turns your human walking motion into the power you need for your devices",
+            "location": "Cleveland, OH",
+            "social": [
+                "https://www.facebook.com/nPowerPEG",
+                "https://twitter.com/npowerpeg",
+                "https://www.youtube.com/user/npowerpeg"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Tremont Electric",
+                "link": "http://www.npowerpeg.com/"
+            }
+        },
+        {
+            "product": "Belt has a unique ratchet system with a release button underneath",
+            "location": "Orem, UT",
+            "social": [
+                "https://www.facebook.com/MissionBeltCo",
+                "https://twitter.com/MissionBeltCo",
+                "http://www.pinterest.com/missionbeltco/",
+                "https://www.youtube.com/user/theMissionBeltCo"
+            ],
+            "status": "Funded",
+            "investors": "Daymond John",
+            "kitna": "50k for 35%",
+            "company": {
+                "title": "The Mission Belt",
+                "link": "http://missionbelt.com/"
+            }
+        }
+    ],
+    "Episode 24": [
+        {
+            "product": "Coffee Subscription Service",
+            "location": "Phoenix, AZ",
+            "social": [
+                "https://www.facebook.com/mistoboxmonthly",
+                "https://twitter.com/MistoBoxCoffee",
+                "http://www.pinterest.com/mistobox/",
+                "https://www.youtube.com/user/MistoBox"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban",
+            "kitna": "75K for 30%",
+            "company": {
+                "title": "Misto Box",
+                "link": "http://www.mistobox.com/"
+            }
+        },
+        {
+            "product": "World’s first interactive squirrel-proof bird-feeder",
+            "location": "Hawley, PA",
+            "social": [
+                "https://www.facebook.com/TheSquirrelBoss",
+                "https://twitter.com/thesquirrelboss",
+                "https://www.youtube.com/user/officialsquirrelboss"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Squirrel Boss",
+                "link": "http://www.squirrelboss.com/"
+            }
+        },
+        {
+            "product": "Kitchen Decor and cooking equipment",
+            "location": "Burlington, VT",
+            "social": [
+                "https://www.facebook.com/pages/Vermont-Butcher-Block-Board/106442876052116?fref=ts",
+                "https://twitter.com/vtbutcherblock",
+                "https://www.youtube.com/user/VTButcherblock"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Vermont Butcher Block & Board Company",
+                "link": "http://www.vermontbutcherblock.com/"
+            }
+        },
+        {
+            "product": "Fully-seasoned gumbo base in the form of a brick that allows customers to add ingredients",
+            "location": "Inglewood, CA",
+            "social": [
+                "https://www.facebook.com/pages/MEE-MAs-Louisiana-GUMBO-BRICK/118658148160502",
+                "https://twitter.com/gumbogeek",
+                "https://www.youtube.com/user/gumbogeek"
+            ],
+            "status": "Funded",
+            "investors": "Lori Greiner and Kevin O’Leary",
+            "kitna": "200k for 50% ",
+            "company": {
+                "title": "Mee-Mas Gumbo",
+                "link": "http://www.gumbobrick.com/"
+            }
+        }
+    ],
+    "Episode 25": [
+        {
+            "product": "Unique bright pink mobile food truck that sells gourmet burgers",
+            "location": "Jacksonville, FL",
+            "social": [
+                "https://www.facebook.com/BabysBBSJax",
+                "https://twitter.com/BabysBBs"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Baby’s BadAss Burgers",
+                "link": "http://www.babysbadassburgers.com/"
+            }
+        },
+        {
+            "product": "Full-length action film",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/trackdaysthemovie",
+                "https://twitter.com/Trackdaysmovie"
+            ],
+            "status": "Not Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Track Days",
+                "link": "http://www.trackdaysthemovie.com/"
+            }
+        },
+        {
+            "product": "Balance bike that is revolutionizing the way kids learn how to ride",
+            "location": "Virginia Beach, VA",
+            "social": [
+                "https://www.facebook.com/pages/KaZAM-Bikes/174891532537352",
+                "https://www.youtube.com/watch?v=13QbIinul-4&feature=youtu.be"
+            ],
+            "status": "Funded",
+            "investors": "Mark Cuban and Barbara Corcoran",
+            "kitna": "300K for 32%",
+            "company": {
+                "title": "KaZam",
+                "link": "http://www.kazambikes.com/"
+            }
+        },
+        {
+            "product": "Photobooths",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/ThePinkShutter",
+                "https://twitter.com/thepinkshutter",
+                "http://www.pinterest.com/pinkshutterpb/",
+                "http://instagram.com/thepinkshutter#"
+            ],
+            "status": "Funded",
+            "investors": "Barbara Corcoran",
+            "kitna": "300K for 33% ",
+            "company": {
+                "title": "Pink Shutter Photobooths",
+                "link": "http://pinkshutter.com/"
+            }
+        }
+    ],
+    "Episode 26": [
+        {
+            "product": "Dating site where everyone must be invited or endorsed to get in",
+            "location": "Los Angeles, CA",
+            "social": [
+                "https://www.facebook.com/ThreeDayRule",
+                "https://twitter.com/threedayrule",
+                "http://www.pinterest.com/threedayrule/",
+                "http://instagram.com/threedayrule"
+            ],
+            "status": "Funded",
+            "investors": "",
+            "kitna": "",
+            "company": {
+                "title": "Three-Day Rule",
+                "link": "http://www.threedayrule.com/"
+            }
+        },
+        {
+            "product": "Fresh, all-natural dog treats",
+            "location": "Norwalk, CT",
+            "social": [
+                "https://www.facebook.com/RyansBarkery?group_id=0",
+                "https://twitter.com/rbarkery"
+            ],
+            "status": "Not Funded",
+            "investors": "Barbara Corcoran",
+            "kitna": "25K for 25%",
+            "company": {
+                "title": "Ryan’s Barkery",
+                "link": "http://www.ryansbarkery.com/"
+            }
+        },
+        {
+            "product": "Grilled Cheese and Tomato Soup ( also sells apparrel)",
+            "location": "Cincinnati, OH",
+            "social": [
+                "https://www.facebook.com/4TomAndChee",
+                "https://twitter.com/TomAndChee",
+                "http://www.pinterest.com/tomandchee/",
+                "https://www.youtube.com/user/TomAndChee"
+            ],
+            "status": "Not Funded",
+            "investors": "Barbara Corcoran and Mark Cuban",
+            "kitna": "600K for 15%",
+            "company": {
+                "title": "Tom and Chee",
+                "link": "http://www.tomandchee.com/"
+            }
+        },
+        {
+            "product": "Human Powered Translation App",
+            "location": "New York, NY",
+            "social": [
+                "https://www.facebook.com/VerbalizeIt",
+                "https://twitter.com/Verbalize_It"
+            ],
+            "status": "Funded",
+            "investors": "Kevin O’Leary",
+            "kitna": "250k for 20% ",
+            "company": {
+                "title": "Verbalize It",
+                "link": "https://www.verbalizeit.com/"
+            }
+        }
+    ]
+}

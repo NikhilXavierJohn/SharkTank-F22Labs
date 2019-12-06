@@ -1,0 +1,496 @@
+Season,Episode,Company,Entrepreneur Gender,Investor,Investment_Amount
+1,1,Ava the Elephant,Female,Corcoran,$50000
+1,1,Mr. Tod's Pie Factory,Male,Corcoran.John,$230000
+1,1,Wispots,Male,,
+1,1,College Foxes Packing Boxes,Male,,
+1,1,Ionic Ear,Male,,
+1,2,A Perfect Pear,Female,Herjavec.O Leary,$250000
+1,2,Classroom Jams,Male,Corcoran.Cuban.Herjavec.John.O Leary,$50000
+1,2,Lifebelt,Male,,
+1,2,Crooked Jaw,Male,,
+1,2,Sticky Note Holder,Female,,
+1,3,Turbobaster,Female,Harrington,$35000
+1,3,Stress Free Kids,Female,Corcoran,$250000
+1,3,Kwyzta Chopstick Art,Male,,
+1,3,50 State Capitals in 50 Minutes,Male,,
+1,3,Voyage Air Guitar,Male,,
+1,4,Gift Card Rescue,Male,Herjavec.O Leary,$100000
+1,4,Coverplay,Female,Corcoran,$35000
+1,4,Graffiti Removal Services,Male,,
+1,4,Souls Calling, Inc.,Female,,
+1,4,Coffee Brand Gifts,Male,,
+1,5,My Therapy Journal,Male,Herjavec.O Leary,$40000
+1,5,Body Jac,Male,Corcoran.Harrington,$90000
+1,5,Good Grief Celebrations,Female,,
+1,5,Granola Gourmet,Male,,
+1,5,Face Blok,Female,,
+1,6,Pork Barrel BBQ Sauce,Male,Corcoran,$50000
+1,6,Element Bars,Male,Harrington,$150000
+1,6,Underease Underwear,Mixed Team,,
+1,6,Kalyx Technologies,Female,,
+1,6,The Fizz,Male,,
+1,7,Soy-Yer-Dough,Male,Herjavec.John.O Leary,$100000
+1,7,Grill Charms Set,Female,Herjavec,$50000
+1,7,Boogie Box Fitness,Female,,
+1,7,The Fun house Project,Male,,
+1,8,Treasure Chest Pets,Female,Corcoran.John,$50000
+1,8,Notehall,Male,Corcoran,$90000
+1,8,Throx,Male,,
+1,8,Washed Up Hollywood,Male,,
+1,9,Gayla Bentley Fashion,Female,Corcoran.John,$125000
+1,9,Chill Soda,Male,Corcoran,$50000
+1,9,Cornucopia Express,Male,,
+1,9,Virtusphere,Male,,
+1,10,The URO Club,Male,,$25000
+1,10,Jump Forward,Male,Herjavec.O Leary,$300000
+1,10,The Bobble Place,Male,,
+1,10,Mr. Poncho,Mixed Team,,
+1,11,Hells Bells Helmets,Mixed Team,John,$500000
+1,11,Chef In Black,Female,Corcoran,$50000
+1,11,Ink Flip,Male,,
+1,11,Romp NΓÇÖ Roll,Mixed Team,,
+1,11,The Twister,Male,,
+1,12,Grease Monkey Wipes,Mixed Team,Corcoran.Herjavec,$20000
+1,12,Wee Can Shop,Mixed Team,,
+1,12,The Podillow,Mixed Team,,
+1,12,The Factionist,Male,,
+1,13,Caffeindicator,Male,Harrington,$200000
+1,13,Lipstick Remix,Female,Corcoran.John.Harrington,$35000
+1,13,Legal Grind,Mixed Team,,
+1,13,Captain Ice Cream,Male,,
+1,14,Nubrella,Male,John.Harrington,$100000
+1,14,Qubits,Male,John,$90000
+1,14,Send A Ball,Female,,
+1,14,Pillars of Slippers,Female,,
+1,14,Llama Brew,Mixed Team,,
+2,1,Wurkin Stiffs,Male,Corcoran.John,$50000
+2,1,Tippi Toes,Female,Corcoran.Cuban,$50000
+2,1,CBS Foods,Male,,
+2,1,Copa di Vino,Male,,
+2,2,Toygaroo,Female,Cuban.O Leary,$100000
+2,2,First Defense Nasal Screen,Male,Cuban.Herjavec.John,$250000
+2,2,Vurtego,Male,,
+2,2,Wake n' Bacon,Male,,
+2,3,Mod Mom Furniture,Female,,#DIV/0!
+2,3,Flipoutz,Mixed Team,John,$100000
+2,3,Fitness Stride,Male,,
+2,3,Pure Ayre,Male,,
+2,4,Broccoli Wad,Male,Corcoran,$50000
+2,4,Hillbilly Brand,Male,Herjavec.John,$37500
+2,4,Ride-On Carry-On,Mixed Team,Corcoran,$50000
+2,4,Uncle Zip's Beef Jerky,Male,,
+2,5,Lightfilm,Male,Herjavec.John,$5000
+2,5,Fridge Fronts,Female,Corcoran.O Leary,$50000
+2,5,New Era Brands,Male,,
+2,5,Thin Gloss,Female,,
+2,6,Sweep Easy,Male,John,$75000
+2,6,Daisy Cakes,Female,Corcoran,$50000
+2,6,Hot Mama Gowns,Female,,
+2,6,Caddy Swag,Mixed Team,,
+2,7,Hydromax,Male,,$50000
+2,7,Carsik Bib,Male,,
+2,7,Ecomowers,Male,,
+2,7,Games2U,Male,,
+2,8,HyConn,Male,Cuban,$1250000
+2,8,Origaudio,Male,Herjavec,$150000
+2,8,Man Candle,Male,,
+2,8,Original Runner Company,Female,,
+2,9,Aldo Orta Jewelry,Male,Corcoran.Harrington,$90000
+2,9,One Sole,Female,John,$500000
+2,9,CitiKitty,Female,Harrington,$100000
+2,9,Samson Martin,Female,,
+3,1,EZ VIP,Male,Cuban.John,$75000
+3,1,The Clean Bottle,Male,Cuban,$60000
+3,1,My Wonderful Life,Female,,
+3,1,Business Ghost,Male,,
+3,2,I Want To Draw A Cat For You,Male,Cuban,$25000
+3,2,Salespreneur,Male,,
+3,2,Invis-A-Rack,Male,,
+3,2,Vegas Magic Show,Male,,
+3,3,You Smell Soap,Female,Herjavec,$50000
+3,3,Chord Buddy,Male,Herjavec,$175000
+3,3,Liquid Money,Male,,
+3,3,Tail Lightz,Male,,
+3,4,Wine Balloon,Male,Cuban,$400000
+3,4,Show No,Female,Greiner,$75000
+3,4,The Swilt,Female,,
+3,4,Puppy Cake,Female,,
+3,5,The Last Lid,Mixed Team,John,$40000
+3,5,Talbott Teas,Male,O Leary,$250000
+3,5,M3 Girl Designs,Female,Cuban.Greiner.Herjavec,$100000
+3,5,Ledge Pillow,Female,,
+3,6,Readerest Specsecure,Male,Greiner,$150000
+3,6,The Painted Pretzel,Female,Cuban,$100000
+3,6,Esso Watches,Male,,
+3,6,Five Minute Furniture,Male,,
+3,7,Kisstixx,Male,Cuban,$200000
+3,7,The Smart Baker,Mixed Team,Corcoran,$75000
+3,7,ScotteVest,Male,,
+3,7,The Heat Helper,Male,,
+3,8,Litter,Female,Cuban.John,$40000
+3,8,Nardo's Natural,Male,,#DIV/0!
+3,8,The Original Profender,Male,,
+3,8,Rent-A-Grandma,Male,,
+3,9,Tower Paddle Boards,Male,Cuban,$150000
+3,9,Miso Media,Male,Cuban,$300000
+3,9,Instant Lifts,Mixed Team,,
+3,9,Vinamor,Male,,
+3,10,GoGo Gear,Female,John,$300000
+3,10,The Ave Venice,Male,,
+3,10,BrewerΓÇÖs Cow,Male,,
+3,10,BarkΓÇÖemΓÇÖs To Go,Male,,
+3,11,ViewSport,Male,,
+3,11,Blondies Cookies,Female,,
+3,11,Copa di Vino,Male,,
+3,11,The Sullivan Generator,Male,,
+3,12,Lollacup,Mixed Team,Cuban.Herjavec,$50000
+3,12,Nail Pak,Female,Greiner,$50000
+3,12,Debbie Brooks Handbags,Mixed Team,,
+3,12,Trimi Tank,Female,,
+3,13,Villy Customs,Male,Corcoran.Cuban,$250000
+3,13,Boot Illusions,Mixed Team,Corcoran.Cuban,$250000
+3,13,AirBedz,Male,,
+3,13,Skyride,Male,,
+3,14,Dance With Me,Male,Cuban.John,$50000
+3,14,Wild Squirrel Nut Butter,Female,Corcoran,$50000
+3,14,Mix Bikini,Male,Corcoran,$50000
+3,14,Cab20 Rock Band,Male,,
+3,15,Remyxx ReKixx Sneakers,Male,John,$50000
+3,15,UniKey Technologies,Male,Cuban.O Leary,$250000
+3,15,The NitroForce Titan 1000,Mixed Team,,
+3,15,Cougar Limited,Male,,
+4,1,Bev Buckle,Male,Corcoran,$50000
+4,1,Buggy Beds,Female,Corcoran.Cuban.Herjavec.John.O Leary,$50000
+4,1,Coat Chex,Male,,
+4,1,Body Walking,Male,,
+4,2,SurfSet Fitness,Mixed Team,Cuban,$300000
+4,2,CateApp,Male,John.O Leary,$37500
+4,2,Alpha M,Male,,
+4,2,eCreamery,Female,,
+4,3,Rock Bands,Male,Cuban.John,$50000
+4,3,Posture Now,Male,Cuban,$100000
+4,3,FuzziBunz,Female,,
+4,3,Liz Lovely Cookies,Mixed Team,,
+4,4,Bag Bowl,Male,Greiner,$40000
+4,4,Back 9 Dips,Mixed Team,Greiner.Herjavec,$75000
+4,4,Lift Hamper,Male,,
+4,4,Zomm,Male,,
+4,5,Cozy Bugs,Female,John,$50000
+4,5,Marz Sprays,Male,Greiner,$200000
+4,5,Wired Waffles,Male,,
+4,5,The Spatty and The Spaddy Dadd,Female,,
+4,6,PRO-NRG,Mixed Team,John,$250000
+4,6,Cousins Maine Lobster,Male,Corcoran,$55000
+4,6,Freaker USA,Male,,
+4,6,EcoNutsSoap,Mixed Team,,
+4,7,SBU,Male,Herjavec.O Leary,$150000
+4,7,Scrub Daddy,Male,Greiner,$200000
+4,7,The Shemie,Male,,
+4,7,The Bear & The Rat,Mixed Team,,
+4,8,The Cool Wazoo,Female,Greiner,$65000
+4,8,Plate Topper,Male,Greiner,$90000
+4,8,No Fly Cone,Male,,
+4,9,Drive Suits,Male,O Leary,$150000
+4,9,Ice Chips Candy,Female,Corcoran.Cuban,$62500
+4,9,ReVestor,Male,,
+4,9,PC Classes Online,Male,,
+4,10,Ruck Pack Combat Nutrition,Male,Herjavec.O Leary,$75000
+4,10,Nearly Newlywed,Female,,
+4,10,Tie Try,Male,,
+4,10,Corks Away,Male,,
+4,11,The Living Christmas Company,Male,Cuban,$150000
+4,11,The Coop,Female,Corcoran,$150000
+4,11,Partie Poche,Mixed Team,,
+4,11,Fat Ass Fudge,Female,,
+4,12,Hot Tot,Female,Cuban,$75000
+4,12,The GameFace Company,Male,Cuban.Greiner,$225000
+4,12,Dura Tent,Male,,
+4,12,ARKEG,Male,,
+4,13,Coffee Joulies,Male,Greiner.Herjavec.John.O Leary,$37500
+4,13,Teddy Needs,Female,Cuban,$100000
+4,13,Urbio,Male,Greiner,$300000
+4,13,Sub Zero Ice Cream,Mixed Team,,
+4,14,Sound Bender,Male,John,$54000
+4,14,Bibitec Bibs,Mixed Team,,
+4,14,Cuddle Story Telling Bear,Male,,
+4,14,Invisible Xero Shoes,Mixed Team,,
+4,15,Hoodie Pillow,Mixed Team,Herjavec,$90000
+4,15,Get Grinds,Male,Herjavec.John,$37500
+4,15,Green Garmento,Female,,
+4,15,My Cold Snap,Male,,
+4,16,The Smart Wheel,Mixed Team,Cuban.Herjavec,$50000
+4,16,HDYR Sushi Bars,Male,O Leary,$1000000
+4,16,Gotta Have S'More,Female,,
+4,16,Pretty Padded Room,Female,,
+4,17,Addison's Wonderland,Female,,
+4,17,Hip Chicks,Female,,
+4,17,Proof Eye Wear,Male,,
+4,17,Muddy Water Camo,Male,,
+4,18,Jeska Shoe Company,Female,John,$70000
+4,18,Nuts n More,Male,Cuban.Herjavec,$125000
+4,18,Neo Innovations,Male,,
+4,18,PSI Bands,Female,,
+4,19,CordaRoy's Bean Bag Beds,Male,Greiner,$200000
+4,19,Lose 12,Male,John,$125000
+4,19,Baby Loves Disco,Mixed Team,,
+4,19,Cell Helmet,Male,,
+4,20,CoolWraps,Male,Cuban,$250000
+4,20,Simple Sugar Scrubs,Female,Cuban,$100000
+4,20,Drop Stop,Male,Greiner,$300000
+4,20,Traditional Fisheries,Male,,
+4,21,GOBIE H20,Male,John,$300000
+4,21,LiddUp Coolers,Male,O Leary,$100000
+4,21,Rootsuit,Male,,
+4,21,Echo Valley Meats,Male,,
+4,22,Wicked Good Cup Cakes,Female,O Leary,$75000
+4,22,The Mission Belt,Male,John,$50000
+4,22,Shell Bobbers,Male,Cuban,$80000
+4,22,Tremont Electric,Male,,
+4,23,Me-Ma's Gumbo Bricks,Female,Greiner.O Leary,$100000
+4,23,Misto Box Coffee Club,Mixed Team,Cuban,$75000
+4,23,Vermont Butcher Block,Male,,
+4,23,Squirrel Boss Bird Feeder,Male,,
+4,24,Pink Shutter Photo Booths,Male,Corcoran,$300000
+4,24,KazAM Balancing Bike's,Female,Corcoran.Cuban,$150000
+4,24,Baby's Badass Burgers,Female,,
+4,24,Track Days,Male,,
+4,25,Stella Valle Jewelry,Female,Cuban.Greiner,$75000
+4,25,Geek Chic,Male,Herjavec,$300000
+4,25,LugLess,Male,,
+4,25,Jones Scones,Male,,
+4,26,Ryan's Barkery,Male,Corcoran,$25000
+4,26,Verbalize It App,Male,O Leary,$250000
+4,26,Tom n Chee,Male,Corcoran.Cuban,$300000
+4,26,Three Day Rule,Female,,
+5,1,Sweet Ballz,Male,Corcoran.Cuban,$125000
+5,1,Postcard on the Run,Male,Herjavec,$300000
+5,1,Lynnaes Gourmet Pickles,Female,,
+5,1,RoloDoc,Male,,
+5,2,Kane & Couture Dog Clothes,Female,Greiner.John,$75000
+5,2,Breathometer,Male,Cuban.Greiner.Herjavec.John.O Leary,$200000
+5,2,Mango Mango Preserve,Female,,
+5,2,Man Medals,Male,,
+5,3,Freeloader Child Carrier,Male,Herjavec,$200000
+5,3,Rapid Ramen Cooker,Male,Cuban,$300000
+5,3,Fairy Tale Wishes,Female,,
+5,3,Kook n Kap,Female,,
+5,4,Screen Mend,Mixed Team,Greiner,$30000
+5,4,Hamboards Skateboard/Surfboard,Male,Herjavec,$300000
+5,4,R Dubs Sunday Night Slow Jams,Male,,
+5,4,Scan. Me App,Male,,
+5,5,Garden Pops,Mixed Team,Corcoran.Cuban,$37500
+5,5,Ruffle Butts - Rugged Butts,Mixed Team,Greiner,$300000
+5,5,Bare Ease Bikini Waxing,Female,,
+5,5,Rent A Goat,Male,,
+5,6,Total Merchant Resources,Mixed Team,O Leary,$200000
+5,6,Ten Thirty One Haunted Hayrides,Female,Cuban,$2000000
+5,6,Fiber Fix Tape,Male,Greiner,$250000
+5,6,Elephant Chat,Mixed Team,,
+5,7,180 Party Cup,Male,John,$300000
+5,7,Tree T Pee,Male,,$150000
+5,7,Better Life Cleaning Products,Male,Greiner,$400000
+5,7,Kymera Electric Surfboards,Male,,
+5,8,Paparazzi Proposals,Male,Greiner.O Leary,$125000
+5,8,Schulzies Bread Pudding,Female,,
+5,8,BellyBuds,Male,,
+5,8,PetPaint,Male,,
+5,9,Surprise Ride,Female,,
+5,9,Slawsa,Female,,
+5,9,DoorBot,Male,,
+5,9,Magic Moments,Male,,
+5,10,Grace & Lace Knitted Boot Socks,Mixed Team,Corcoran,$175000
+5,10,Yubo Customized Lunch Boxes,Mixed Team,Herjavec.O Leary,$75000
+5,10,PurseCase,Female,John,$55000
+5,10,Chocomize Chocolate Bars,Male,,
+5,11,De-Boned Baby Back Rib Steak,Mixed Team,John,$300000
+5,11,SpiritHoods,Mixed Team,,
+5,11,FoHawx,Female,,
+5,11,Virtuix Omni,Male,,
+5,12,Tipsy Elves,Male,Herjavec,$100000
+5,12,One Life Products,Male,John,$50000
+5,12,Cashmere Hair,Female,,
+5,12,Lite-Netics,Male,,
+5,13,GrooveBook,Mixed Team,Cuban.O Leary,$75000
+5,13,The Wall DoctoRX,Male,Herjavec,$150000
+5,13,Bounce Boot Camp,Male,,
+5,13,EyeBloc,Male,,
+5,14,LockerBones,Male,Greiner.Herjavec,$87500
+5,14,InvisiPlug,Male,Greiner,$125000
+5,14,Balloon Distractions,Male,,
+5,14,Alaska Glacial Mud Co.,Female,,
+5,15,SwimZip,Mixed Team,Greiner,$60000
+5,15,Freshly Picked,Female,John,$150000
+5,15,FitDeck,Male,,
+5,15,LifeCaps,Male,,
+5,16,The Cookie Dough Cafe,Female,Greiner,$50000
+5,16,Cycloramic,Male,Cuban.Greiner,$250000
+5,16,Nexersys,Male,,
+5,16,Cow Wow Cereal Milk,Male,,
+5,17,Spy Escape and Evasion,Male,John,$150000
+5,17,Southern Culture Artisan Foods,Female,Corcoran,$100000
+5,17,DDP Yoga,Male,,
+5,17,Moberi,Male,,
+5,18,Bambooee,Mixed Team,Greiner,$200000
+5,18,Buzzy4Shots,Female,,
+5,18,ZipIt,Female,,
+5,18,Cheek'd,Female,,
+5,19,U-Lace,Male,Cuban,$200000
+5,19,RevoLights,Male,Herjavec,$300000
+5,19,Squeeky Knees,Mixed Team,,
+5,19,The Buffer Bit,Male,,
+5,20,Henry's Humdingers,Male,Cuban.Herjavec,$150000
+5,20,Boo Boo Goo,Mixed Team,O Leary,$100000
+5,20,Iretron,Male,Corcoran.Cuban,$50000
+5,20,Define Bottle,Male,,
+5,21,Packback Books,Mixed Team,,
+5,21,Chapul,Male,Cuban,$50000
+5,21,Garage Door Lock,Male,John,$275000
+5,21,MorningHead,Male,,
+5,22,Plated,Male,Cuban,$500000
+5,22,Monkey Mat,Mixed Team,Cuban.Greiner,$50000
+5,22,The Paint Brush Cover,Male,Greiner,$100000
+5,22,Kodiak Cakes,Mixed Team,,
+5,23,Velocity Signs,Male,Cuban.Herjavec.O Leary,$75000
+5,23,Happy Feet,Male,,#DIV/0!
+5,23,Hold Your Haunches,Female,Corcoran.Greiner,$50000
+5,23,Lord Nut Levington,Male,,
+5,24,Fun Time Express,Male,Greiner.O Leary,$62500
+5,24,PowerPot,Male,Cuban,$250000
+5,24,Quickstop Fire Sprinkler Tools,Male,,
+5,24,Taylor Robinson Music,Male,,
+5,25,ZooBean,Mixed Team,Cuban,$250000
+5,25,iLumi,Male,,
+5,25,Fort Magic,Female,,
+5,25,Intelli-Stopper Technology,Male,,
+5,26,Rugged Maniac,Male,Cuban,$1750000
+5,26,Cerebral Success,Male,Corcoran,$75000
+5,26,Mo's Bows,Male,,
+5,26,Crio,Male,,
+5,27,Angellift,Male,Greiner,$500000
+5,27,HangEase,Male,,
+5,27,The Bouqs Company,Male,,
+5,27,Susty Party,Female,,
+5,28,Oru Kayak,Male,Herjavec,$500000
+5,28,Bon Affair,Female,Cuban,$150000
+5,28,Cinnaholic,Mixed Team,,
+5,28,Hargitt Marine Services,Male,,
+5,29,Foot Fairy,Female,Cuban,$100000
+5,29,BZbox,Female,Greiner,$50000
+5,29,Tie-Not,Male,,
+5,29,Baker's Edge,Mixed Team,,
+6,1,Sleeping Baby,Mixed Team,John,$200000
+6,1,Bombas,Male,John,$200000
+6,1,Hammer & Nails,Male,,
+6,1,Amber,Male,,
+6,2,Kronos,Male,Herjavec,$150000
+6,2,Roominate,Female,Cuban.Greiner,$250000
+6,2,The Floating Mug Co.,Male,,
+6,2,Wedding Wagon,Male,,
+6,3,Heart Pup,Female,John,$50000
+6,3,SoapSox,Male,,
+6,3,Ninja Cards,Male,,
+6,3,DrumPants,Mixed Team,,
+6,4,Paper Box Pilots,Male,Herjavec,$35000
+6,4,Reviver,Male,Greiner,$150000
+6,4,FunCakes Rental,Female,,
+6,4,Table Jacks,Male,,
+6,5,The Red Dress Boutique,Mixed Team,Cuban.Herjavec,$600000
+6,5,SunStaches,Male,John,$300000
+6,5,Jungle JumpaRoo,Mixed Team,,
+6,5,The Caddy Girls,Female,,
+6,6,Honeyfund,Mixed Team,O Leary,$400000
+6,6,BeatBox Beverages,Mixed Team,Cuban,$1000000
+6,6,Oilerie USA,Male,,
+6,6,EmergenSee,Male,,
+6,7,Myself Belts,Female,John,$75000
+6,7,Titin,Male,John,$500000
+6,7,SingTrix,Male,,
+6,7,Beardbrand,Male,,
+6,8,The Natural Grip,Female,Herjavec,$125000
+6,8,Bottle Breacher,Male,Cuban.O Leary,$75000
+6,8,Man-Pack,Male,,
+6,8,Priority One Canine,Mixed Team,,
+6,9,Heidi Ho,Female,Greiner,$125000
+6,9,Squatty Potty,Mixed Team,Greiner,$350000
+6,9,Pipsnacks,Mixed Team,Corcoran,$200000
+6,9,Storm Stoppers,Male,,
+6,10,MagicCook,Female,John,$100000
+6,10,Earth Log,Male,Greiner,$160000
+6,10,Kitchen Safe,Male,Greiner,$50000
+6,10,Off the Cob,Male,,
+6,11,Biaggi,Male,Greiner,$500000
+6,11,Gameday Couture,Mixed Team,Cuban,$500000
+6,11,Zipz,Male,O Leary,$2500000
+6,11,Soaps Washes and Grooming Essentials (aka S.W.A.G. Essentials),Female,,
+6,12,Hoppy Paws,Female,Corcoran,$100000
+6,12,Q-Flex,Female,Corcoran.Cuban,$12,500
+6,12,The Mensch on a Bench,Male,Greiner.Herjavec,$75000
+6,12,Eve Drop,Male,,
+6,13,Bantam Bagels,Mixed Team,Greiner,$275000
+6,13,Doorman,Male,Herjavec,$250000
+6,13,SkinnyShirt,Female,,
+6,13,Coffee Meets Bagel,Female,,
+6,14,Evrewares,Female,Cuban,$200000
+6,14,Bottle Bright,Male,Greiner,$75000
+6,14,Scratch & Grain Baking Co,Female,Corcoran,$150000
+6,14,Vestpakz,Male,,
+6,15,TurboPUP,Mixed Team,John,$100000
+6,15,Lumio,Male,Herjavec,$350000
+6,15,Bello Verde,Male,,
+6,15,Napwell,Male,,
+6,16,GreenBox,Mixed Team,O Leary,$300000
+6,16,Phonesoap,Male,Greiner,$300000
+6,16,Victoria's Kitchen,Mixed Team,,
+6,16,Tycoon Real Estate,Mixed Team,,
+6,17,Fresh Patch,Mixed Team,Corcoran.Cuban,$75000
+6,17,Drain Strain,Male,Herjavec,$110000
+6,17,Balm Chicky Balm Balm,Female,,
+6,17,BedJet,Male,,
+6,18,BeverageBoy,Male,John,$50000
+6,18,FunBites,Female,Greiner,$75000
+6,18,The Lip Bar,Female,,
+6,18,Himalayan Dog Chew,Male,,
+6,19,Boobypack,Female,Corcoran,$80000
+6,19,Gold Rush Nugget Bucket,Male,Herjavec,$60000
+6,19,Sseko Designs,Mixed Team,,
+6,19,Lumi,Female,,
+6,20,LuminAid,Female,Cuban,$300000
+6,20,Scholly,Male,,#DIV/0!
+6,20,Keen Home,Male,Herjavec,$750000
+6,20,Taaluma,Mixed Team,,
+6,21,Coco Jack,Male,Cuban,$125000
+6,21,BedRyder,Male,,
+6,21,Frill,Female,Corcoran.O Leary,$50000
+6,21,Twin Z Pillow,Mixed Team,Greiner,$75000
+6,22,Echo Valley Meats,Male,Cuban,$150000
+6,22,Emazing Lights,Male,Cuban.John,$325000
+6,22,acqua vault,Male,John,$75000
+6,22,Naja,Female,,
+6,23,Bee Sweet Lemonade,Mixed Team,John,$60000
+6,23,Brand Yourself,Male,,
+6,23,iC Pooch,Mixed Team,,
+6,23,The Home T,Male,,
+6,24,Budsies,Male,,
+6,24,bee thinking,Male,,
+6,24,PullyPalz,Female,Greiner,$100000
+6,24,Forus,Male,,
+6,25,NeatCheeks,Female,Corcoran,$150000
+6,25,Melni,Male,Cuban,$500000
+6,25,Beneath the Ink,Mixed Team,,
+6,25,PittMoss,Male,Cuban.Herjavec.O Leary,$200000
+6,26,ZinePak,Female,Greiner.Herjavec,$362500
+6,26,snagastool,Male,,
+6,26,Buck Mason,Male,,
+6,26,Noene,Male,Cuban.John,$100000
+6,27,AirCar,Male,Herjavec,$5000000
+6,27,Paleo Diet Foods,Female,,
+6,27,World Record Striper Company,Male,Cuban,$50000
+6,27,Frameri,Male,,
+6,28,Zoom,Female,Corcoran,$100000
+6,28,Sunscreen Mist,Male,,
+6,28,SynDaver Labs,Male,Herjavec,$3000000
+6,28,You Kick Ass,Female,Cuban,$100000
+6,29,Shark Wheel,Male,Cuban.Herjavec,$75000
+6,29,Gato Cafe,Female,,
+6,29,Sway Motorsports,Male,Cuban,$300000
+6,29,Spikeball,Male,John,$500000

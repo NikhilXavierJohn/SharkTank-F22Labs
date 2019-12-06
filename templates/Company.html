@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style2.css') }}"/>
+        <title>Shark Tank</title>
+        <script src="{{ url_for('static', filename='js/jquery-3.4.1.min.js')}}"></script>
+      </head> 
+      <body style="background:url({{url_for('static', filename='images/back1.jpg')}}) ;height:50%;width:: 90% ;background-attachment:scroll ; background-color: black;">
+        <img src="{{ url_for('static', filename='images/banner.jpg')}}" alt="Avatar" style="width:100%">
+        <div class="card">
+            
+            <div class="containers" style="text-align: center;">
+                {% for item in data %}
+                <h1><b>Company Name :   </b><span>{{item[2]}}</span></h1>
+                <h3><b>Season       :   </b><span>{{item[0]}}</span></h3>
+                <h3><b>Episode      :   </b><span>{{item[1]}}</span></h3>
+                <h3><b>Product      :   </b><span>{{item[5]}}</span></h3>
+                <h3><b>Investors    :   </b><span>{{item[6]}}</span></h3>
+                <h3><b>Investment   :   </b><span>{{item[7]}}</span></h3>
+                <h3><b>Status       :   </b><span>{{item[8]}}</span></h3>
+                <h3><b>Website      :   </b><span><a href={{item[3]}}>{{item[3]}}</a></span></h3>
+                <h3><b>Social Media :   </b><span>{{item[4]}}</span></h3>
+                {% endfor %}
+            </div>
+          </div>
+    </body>
+</html>

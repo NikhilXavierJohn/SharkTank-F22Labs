@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<script src="{{ url_for('static', filename='js/require.js')}}"></script>
+<head>
+  <meta charset="utf-8" />
+  <link rel=stylesheet type=text/css href="{{ url_for('static', filename='css/style.css') }}"/>
+  <title>Shark Tank</title>
+  <script src="{{ url_for('static', filename='js/jquery-3.4.1.min.js')}}"></script>
+        <!-- <script>
+            $(document).ready(function () {
+                $("#filter").change(function () {
+
+                    // var selectedVal = $("#myselect option:selected").text();
+                    var selectedVal = $("#filter option:selected").val();
+                    var url="/"+selectedVal;
+                    $.post(URL=url);
+                    // alert("Hi, your favorite programming language is " + selectedVal);
+
+                });
+            });
+        </script> -->
+</head>
+<body style="background:url({{url_for('static', filename='images/back.jpg')}}) ;height:50%;width:: 90% ;background-attachment:scroll ; background-color: black;">
+    <form action="/filter/">
+    <div id="list3" class="dropdown-check-list" tabindex="100">
+        <span class="anchor">Season</span>
+        <ul class="items">
+            <li><input id="season1" name="Season" type="checkbox" value="'Season':'1'"/><label for="season1">1</label></li>
+            <li><input id="season2" name="Season" type="checkbox" value="'Season':'2'"/><label for="season2">2</label></li>
+            <li><input id="season3" name="Season" type="checkbox" value="'Season':'3'"/><label for="season3">3</label></li>
+            <li><input id="season4" name="Season" type="checkbox" value="'Season':'4'"/><label for="season4">4</label></li>
+            <li><input id="season5" name="Season" type="checkbox" value="'Season':'5'"/><label for="season5">5</label></li>
+            <li><input id="season6" name="Season" type="checkbox" value="'Season':'6'"/><label for="season6">6</label></li>
+            <!-- <li><input id="season7" name="Season" type="checkbox" value="'Season':'7'"/><label for="season7">7</label></li> -->
+        </ul>
+    </div>
+    
+    <div id="list3" class="dropdown-check-list" tabindex="10">
+            <span class="anchor">Episode</span>
+            <ul class="items">
+                <li><input id="episode1"  name="Episode" type="checkbox" value="'Episode':'1'"  /><label for="episode1" >1</label></li>
+                <li><input id="episode2"  name="Episode" type="checkbox" value="'Episode':'2'"  /><label for="episode2" >2</label></li>
+                <li><input id="episode3"  name="Episode" type="checkbox" value="'Episode':'3'"  /><label for="episode3" >3</label></li>
+                <li><input id="episode4"  name="Episode" type="checkbox" value="'Episode':'4'"  /><label for="episode4" >4</label></li>
+                <li><input id="episode5"  name="Episode" type="checkbox" value="'Episode':'5'"  /><label for="episode5" >5</label></li>
+                <li><input id="episode6"  name="Episode" type="checkbox" value="'Episode':'6'"  /><label for="episode6" >6</label></li>
+                <li><input id="episode7"  name="Episode" type="checkbox" value="'Episode':'7'"  /><label for="episode7" >7</label></li>
+                <li><input id="episode8"  name="Episode" type="checkbox" value="'Episode':'8'"  /><label for="episode8" >8</label></li>
+                <li><input id="episode9"  name="Episode" type="checkbox" value="'Episode':'9'"  /><label for="episode9" >9</label></li>
+                <li><input id="episode10" name="Episode" type="checkbox" value="'Episode':'10'" /><label for="episode10">10</label></li>
+                <li><input id="episode11" name="Episode" type="checkbox" value="'Episode':'11'" /><label for="episode11">11</label></li>
+                <li><input id="episode12" name="Episode" type="checkbox" value="'Episode':'12'" /><label for="episode12">12</label></li>
+                <li><input id="episode13" name="Episode" type="checkbox" value="'Episode':'13'" /><label for="episode13">13</label></li>
+                <li><input id="episode14" name="Episode" type="checkbox" value="'Episode':'14'" /><label for="episode14">14</label></li>
+                <li><input id="episode15" name="Episode" type="checkbox" value="'Episode':'15'" /><label for="episode15">15</label></li>
+                <li><input id="episode16" name="Episode" type="checkbox" value="'Episode':'16'" /><label for="episode16">16</label></li>
+                <li><input id="episode17" name="Episode" type="checkbox" value="'Episode':'17'" /><label for="episode17">17</label></li>
+                <li><input id="episode18" name="Episode" type="checkbox" value="'Episode':'18'" /><label for="episode18">18</label></li>
+                <li><input id="episode19" name="Episode" type="checkbox" value="'Episode':'19'" /><label for="episode19">19</label></li>
+                <li><input id="episode20" name="Episode" type="checkbox" value="'Episode':'20'" /><label for="episode20">20</label></li>
+                <li><input id="episode21" name="Episode" type="checkbox" value="'Episode':'21'" /><label for="episode21">21</label></li>
+                <li><input id="episode22" name="Episode" type="checkbox" value="'Episode':'22'" /><label for="episode22">22</label></li>
+                <li><input id="episode23" name="Episode" type="checkbox" value="'Episode':'23'" /><label for="episode23">23</label></li>
+                <li><input id="episode24" name="Episode" type="checkbox" value="'Episode':'24'" /><label for="episode24">24</label></li>
+                <li><input id="episode25" name="Episode" type="checkbox" value="'Episode':'25'" /><label for="episode25">25</label></li>
+                <li><input id="episode26" name="Episode" type="checkbox" value="'Episode':'26'" /><label for="episode26">26</label></li>
+                <li><input id="episode27" name="Episode" type="checkbox" value="'Episode':'27'" /><label for="episode27">27</label></li>
+                <li><input id="episode28" name="Episode" type="checkbox" value="'Episode':'28'" /><label for="episode28">28</label></li>
+                <li><input id="episode29" name="Episode" type="checkbox" value="'Episode':'29'" /><label for="episode29">29</label></li>
+            </ul> 
+        </div>
+        <div id="list3" class="dropdown-check-list" tabindex="100">
+                <span class="anchor">Entrepreneur Gender</span>
+                <ul class="items">
+                    <li><input id="male" name=  "Gender" type="checkbox" value="'Entrepreneur Gender':'Male'"/><label for="male">Male</label></li>
+                    <li><input id="female" name="Gender" type="checkbox" value="'Entrepreneur Gender':'Female'"/><label for="female">Female</label></li>
+                    <li><input id="Mixed Team" name="Gender" type="checkbox" value="'Entrepreneur Gender':'Mixed Team'"/><label for="Mixed Team">Mixed Team</label></li>
+                    
+                </ul>
+            </div>
+        <div id="list3" class="dropdown-check-list" tabindex="100">
+                <span class="anchor">Investor</span>
+                <ul class="items">
+                    <li><input id="Corcoran"   name="Investor" type="checkbox" value='"Investor":"Corcoran"'/><label for="Corcoran">Corcoran</label></li>
+                    <li><input id="Cuban"      name="Investor" type="checkbox" value='"Investor":"Cuban"'/><label for="Cuban">Cuban</label></li>
+                    <li><input id="Greiner"    name="Investor" type="checkbox" value='"Investor":"Greiner"'/><label for="Greiner">Greiner</label></li>
+                    <li><input id="Herjavec"   name="Investor" type="checkbox" value='"Investor":"Herjavec"'/><label for="Cuban">Herjavec</label></li>
+                    <li><input id="O'Leary"    name="Investor" type="checkbox" value="'Investor':'O Leary'"/><label for="O Leary">O Leary</label></li>
+                    <li><input id="Harrington" name="Investor" type="checkbox" value='"Investor":"Harrington"'/><label for="Harrington">Harrington</label></li>
+                    <li><input id="John"      name="Investor" type="checkbox"  value='"Investor":"John"'/><label for="John">John</label></li>
+                    
+                </ul>
+            </div>
+        <input type="submit" value="Apply Filter" style="border-radius: 8px;">
+        <button style="border-radius: 8px;"><a href="/" style="text-decoration:none; ">Reset Filter</a></button>
+        </form>  
+              
+            <style>
+            .dropdown-check-list{
+            display: inline-table;
+            padding: 4em 8px 2em 12em;
+            left: 20px;
+            width: 200px;
+            }
+            .dropdown-check-list:focus{
+            outline:0;
+            }
+            .dropdown-check-list .anchor {
+            width: 98%;
+            position: relative;
+            cursor: pointer;
+            display: inline-block;
+            padding-top:5px;
+            padding-left:5px;
+            padding-bottom:5px;
+            border:1px #1F2739 solid;
+            border-radius: 8px;
+            background-color: #1F2739;
+            }
+            .dropdown-check-list .anchor:after {
+            position: absolute;
+            content: "";
+            border-left: 2px solid black;
+            border-top: 2px solid black;
+            padding: 5px;
+            right: 10px;
+            top: 20%;
+            transform: rotate(-135deg);
+            }
+            .dropdown-check-list .anchor:active:after {
+            right: 8px;
+            top: 21%;
+            }
+            .dropdown-check-list ul.items {
+            padding: 2px;
+            display: none;
+            margin: 0;
+            color: #FFF;
+            border:1px #1F2739 solid;
+            border-radius: 8px;
+            background-color: #1F2739;
+            border-top: none;
+            }
+            .dropdown-check-list ul.items li {
+            list-style: none;
+            }
+            .dropdown-check-list.visible .anchor {
+            color: #0094ff;
+            }
+            .dropdown-check-list.visible .items {
+            display: block;
+            }
+            </style>
+            
+            <script>
+            jQuery(function ($) {
+                    var checkList = $('.dropdown-check-list');
+                    checkList.on('click', 'span.anchor', function(event){
+                        var element = $(this).parent();
+            
+                        if ( element.hasClass('visible') )
+                        {
+                            element.removeClass('visible');
+                        }
+                        else
+                        {
+                            element.addClass('visible');
+                        }
+                    });
+                });
+            </script>
+    <table class="container" id="DataTable">
+        <thead>
+            <tr>
+                <th>
+                    <h1>Season</h1>
+                </th>
+                <th>
+                    <h1>Episodes</h1>
+                </th>
+                <th>
+                    <h1>Company</h1>
+                </th>
+                <th>
+                    <h1>Entrepreneur Gender</h1>
+                </th> 
+                <th>
+                    <h1>Investor</h1>
+                </th> 
+                
+                <th>
+                    <h1>Investment</h1>
+                </th> 
+            </tr>
+
+        </thead>
+        <tr>
+                {% for item in data %}
+                <tr>
+                    <td>{{item[0]}}</td>
+                    <td>{{item[1]}}</td>
+                    <td><a href="/company/?compname={{item[2]}}">{{item[2]}}</a></td>
+                    <td>{{item[3]}}</td>
+                    <td>{{item[4]}}</td>
+                    <td>{{item[5]}}</td>
+
+                </tr>
+                {% endfor %}  
+        </tr>
+    </table>
+
+
+</body>
+</html>
