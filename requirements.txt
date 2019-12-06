@@ -1,0 +1,4 @@
+pymongo==3.9.0
+csv
+json
+flask-restplus
