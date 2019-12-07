@@ -31,7 +31,7 @@ def company():
     for s in range(1,scount+1):
         season="season"+str(s)
         seasonfile=season+".json"
-        with open(seasonfile,encoding="utf-8") as data:
+        with open(DIR+'/'+seasonfile,encoding="utf-8") as data:
             jsondata=data.read()
             datas=json.loads(jsondata)
             episodes=len(datas)
